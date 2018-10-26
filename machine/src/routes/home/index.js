@@ -11,7 +11,7 @@ class Home extends Component{
     render(){
         return (
             <View style={Styles.container}>
-                <Button type='primary'>确定</Button>
+                <Button type='ghost'>确定</Button>
             </View>
         )
     }
